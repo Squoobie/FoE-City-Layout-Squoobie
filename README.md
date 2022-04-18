@@ -1,6 +1,8 @@
 # foe-city-layout
 
-View the site [City layout tool](https://sacah.github.io/foe-city-layout/)
+Sourced from Sacah's City Layout Tool on 4/17/2022.
+
+View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout/)
 
 ## Updating building data
 1. Find last ID from src/data/buildingInfo.js
