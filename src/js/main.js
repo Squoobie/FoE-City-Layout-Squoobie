@@ -288,11 +288,50 @@ function createBuilding(data) {
   el.style.width = (buildingData[data.cityentity_id].width * zoomAmount) + 'px';
 
   switch (data.type) {
+    case 'main_building' :
+      el.style.backgroundColor = 'rgba(184, 134, 11, 0.6)';
+      el.style.borderColor = 'rgb(184, 134, 11)';
+      break;
     case 'greatbuilding' :
-      el.style.backgroundColor = "rgba(255, 0, 0, 0.3)";
+      el.style.backgroundColor = 'rgba(255, 69, 0, 0.6)';
+      el.style.borderColor = 'rgb(255,69,0)';
+      break;
+    case 'production' :
+      el.style.backgroundColor = 'rgba(0, 0, 255, 0.5)';
+      el.style.borderColor = 'rgb(0, 0, 255)';
+      break;
+    case 'random_production' :
+      el.style.backgroundColor = 'rgba(127, 255, 0, 0.6)';
+      el.style.borderColor = 'rgb(127, 255, 0)';
+      break;
     case 'goods' :
-      el.style.backgroundColor = "rgba(255, 0, 255, 0.3)";
-  }
+      el.style.backgroundColor = 'rgba(160, 0, 240, 0.6)';
+      el.style.borderColor = 'rgb(160, 0, 240)';
+      break;
+    case 'military' :
+      el.style.backgroundColor = 'rgba(255, 0, 0, 0.6)';
+      el.style.borderColor = 'rgb(255, 0, 0)';
+      break;
+    case 'residential' :
+      el.style.backgroundColor = 'rgba(0, 180, 255, 0.6)';
+      el.style.borderColor = 'rgb(0, 180, 255)';
+      break;
+    case 'decoration' :
+      el.style.backgroundColor = 'rgba(34, 139, 34, 0.6)';
+      el.style.borderColor = 'rgb(34, 139, 34)';
+      break;
+    case 'culture' :
+      el.style.backgroundColor = 'rgba(140, 70, 20, 0.6)';
+      el.style.borderColor = 'rgb(140, 70, 20)';
+      break;
+    case 'tower' :
+      el.style.backgroundColor = 'rgba(140, 70, 20, 0.8)';
+      el.style.borderColor = 'rgb(140, 70, 20)';
+      break;
+    default :
+      el.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
+      el.style.borderColor = 'rgb(0, 0, 0)';
+  };
 
   el.style.top = data.y * zoomAmount + yMove + 'px';
   el.style.left = data.x * zoomAmount + xMove + 'px';
