@@ -1,0 +1,95 @@
+<html>
+
+<head>
+  <script src="src/data/buildingInfo.js"></script>
+  <script src="libs/dialog-polyfill/dialog-polyfill.js"></script>
+  <script src="libs/interact/interact.min.js"></script>
+
+  <link rel="stylesheet" href="libs/dialog-polyfill/dialog-polyfill.css" />
+  <link rel="stylesheet" href="src/style/style.css" />
+</head>
+
+<body>
+  <div class="toolbar">
+    <input id="building" list="buildings" autocomplete="off">
+
+    <datalist id="buildings">
+    </datalist>
+    <button id="addBuilding">Add</button>
+    <button id="importModal">Import</button>
+    <button id="save">Save</button>
+    <button id="share">Share</button>
+    <button id="helpModal">Help</button>
+  </div>
+  <div class="grid"></div>
+
+  <dialog id="importDialog">
+    <p>FoE Helper - Town overview - Copy citymap data</p>
+    <textarea id="citymapJSON"></textarea>
+    <button id="import">Import</button>
+    <button data-action="close">Close</button>
+  </dialog>
+
+  <dialog id="shareDialog">
+    <input id="shareLink" />
+    <button data-action="close">Close</button>
+  </dialog>
+
+  <dialog id="helpDialog">
+    <h1>Help</h1>
+    <p>
+      Currently supporting Firefox, Chrome and Edge
+    </p>
+    <h2>Importing your city</h2>
+    <p>
+      You need the <a href="https://foe-rechner.de/startpage">FoE Helper browser extension</a> installed:
+      <ul>
+        <li>Find the Town overview button on the FoE Helper toolbar. It will open a Your city modal.</li>
+        <li>Press the Copy citymap data button.</li>
+        <li>Paste this in the Import dialog on this site.</li>
+      </ul>
+    </p>
+    <h2>Keyboard shortcuts</h2>
+    <p>
+      <dl>
+        <dt>Click + Drag</dt>
+        <dd>Moves a building.</dd>
+        <dt>Ctrl + Click</dt>
+        <dd>Deletes a building.</dd>
+        <dt>Alt + Click</dt>
+        <dd>Toggles multiselect on a building, click on anything other than a building to deselect all buildings.</dd>
+      </dl>
+    </p>
+    <h2>General help</h2>
+    <p>Select a building from the dropdown top right and click Add to add it.</p>
+    <p>
+      Save will store the current city layout into your Browsers storage, when you load this page again it will load this by default. Click Save again it will overwrite any previous save.
+    </p>
+    <p>
+      Found a problem, log it at <a href="https://github.com/sacah/foe-city-layout/issues">GitHub Issues</a>
+    </p>
+    <button data-action="close">Close</button>
+  </dialog>
+
+  <script src="src/js/main.js"></script>
+  <script>
+    if (window.location.search) loadShared();
+    else renderCity();</script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164513002-1"></script>
+  <script>
+    if (window.location.host === 'sacah.github.io') {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-164513002-1');
+    } else {
+      gtag = function () {};
+    }
+  </script>
+
+</body>
+
+</html>

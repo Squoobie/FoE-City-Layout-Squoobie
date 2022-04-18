@@ -1,0 +1,15 @@
+module.exports = {
+  helpDialogId: 'helpDialog',
+  importDialogId: 'importDialog',
+  shareDialogId: 'shareDialog',
+  buildingInputId: 'building',
+  buildingListId: 'buildings',
+  addBuildingBtnId: 'addBuilding',
+  importModalBtnId: 'importModal',
+  saveBtnId: 'save',
+  shareBtnId: 'share',
+  helpModalBtnId: 'helpModal',
+  mapJSONTextId: 'citymapJSON',
+  shareLinkTextId: 'shareLink',
+  importBtnId: 'import',
+}
