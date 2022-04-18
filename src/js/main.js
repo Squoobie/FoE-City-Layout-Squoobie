@@ -287,6 +287,13 @@ function createBuilding(data) {
   el.style.height = (buildingData[data.cityentity_id].height * zoomAmount) + 'px';
   el.style.width = (buildingData[data.cityentity_id].width * zoomAmount) + 'px';
 
+  switch (data.type) {
+    case 'greatbuilding' :
+      el.style.backgroundColor = "rgba(255, 0, 0, 0.3)";
+    case 'goods' :
+      el.style.backgroundColor = "rgba(255, 0, 255, 0.3)";
+  }
+
   el.style.top = data.y * zoomAmount + yMove + 'px';
   el.style.left = data.x * zoomAmount + xMove + 'px';
 

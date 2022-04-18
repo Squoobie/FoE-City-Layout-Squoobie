@@ -10211,6 +10211,181 @@ var buildingData = {
     "height": 10,
     "type": "off_grid",
     "id": 1458
+  },
+  "R_MultiAge_BirthdayBonus22a": {
+    "name":"Grand King - Lv. 1",
+    "width":3,
+    "height":3,
+    "type":"residential",
+    "id":1459
+  },
+  "R_MultiAge_BirthdayBonus22b": {
+    "name":"Grand King - Lv. 2",
+    "width":3,
+    "height":3,
+    "type":"residential",
+    "id":1460
+  },
+  "R_MultiAge_BirthdayBonus22c": {
+    "name":"Grand Queen - Lv. 1",
+    "width":3,
+    "height":3,
+    "type":"residential",
+    "id":1461
+  },
+  "R_MultiAge_BirthdayBonus22d": {
+      "name":"Grand Queen - Lv. 2",
+      "width":3,
+      "height":3,
+      "type":"residential",
+      "id":1462
+  },
+  "R_MultiAge_PatrickBonus22a": {
+      "name":"Celtic Farmstead - Lv. 1",
+      "width":6,
+      "height":5,
+      "type":"residential",
+      "id":1463
+  },
+  "R_MultiAge_PatrickBonus22b": {
+    "name":"Celtic Farmstead - Lv. 2",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1464
+  },
+  "R_MultiAge_PatrickBonus22c": {
+    "name":"Celtic Farmstead - Lv. 3",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1465
+  },
+  "R_MultiAge_PatrickBonus22d": {
+    "name":"Celtic Farmstead - Lv. 4",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1466
+  },
+  "R_MultiAge_PatrickBonus22e": {
+    "name":"Celtic Farmstead - Lv. 5",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1467
+  },
+  "R_MultiAge_PatrickBonus22f": {
+    "name":"Celtic Farmstead - Lv. 6",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1468
+  },
+  "R_MultiAge_PatrickBonus22g": {
+    "name":"Celtic Farmstead - Lv. 7",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1469
+  },
+  "R_MultiAge_PatrickBonus22h": {
+    "name":"Celtic Farmstead - Lv. 8",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1470
+  },
+  "R_MultiAge_PatrickBonus22i": {
+    "name":"Celtic Farmstead - Lv. 9",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1471
+  },
+  "R_MultiAge_PatrickBonus22j": {
+    "name":"Celtic Farmstead - Lv. 10",
+    "width":6,
+    "height":5,
+    "type":"residential",
+    "id":1472
+  },
+  "W_MultiAge_AgeBonus22": {
+    "name":"Stage of Ages",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1473
+  },
+  "W_MultiAge_AgeBonus22a": {
+    "name":"Golden Orrery - Lv. 1",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1474
+  },
+  "W_MultiAge_AgeBonus22b": {
+    "name":"Golden Orrery - Lv. 2",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1475
+  },
+  "W_MultiAge_AgeBonus22c": {
+    "name":"Golden Orrery - Lv. 3",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1476
+  },
+   "W_MultiAge_AgeBonus22d": {
+     "name":"Golden Orrery - Lv. 4",
+     "width":5,
+     "height":4,
+     "type":"residential",
+    "id":1477
+  },
+    "W_MultiAge_AgeBonus22e": {
+    "name":"Golden Orrery - Lv. 5",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1478
+  },
+    "W_MultiAge_AgeBonus22f": {
+    "name":"Golden Orrery - Lv. 6",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1479
+  },
+    "W_MultiAge_AgeBonus22g": {
+    "name":"Golden Orrery - Lv. 7",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1480
+  },
+   "W_MultiAge_AgeBonus22h": {
+    "name":"Golden Orrery - Lv. 8",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1481
+  },
+    "W_MultiAge_AgeBonus22i": {
+    "name":"Golden Orrery - Lv. 9",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1482
+  },
+   "W_MultiAge_AgeBonus22j": {
+    "name":"Golden Orrery - Lv. 10",
+    "width":5,
+    "height":4,
+    "type":"residential",
+    "id":1483
   }
 
 };
