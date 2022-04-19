@@ -297,8 +297,8 @@ function createBuilding(data) {
       el.style.borderColor = 'rgb(255,69,0)';
       break;
     case 'production' :
-      el.style.backgroundColor = 'rgba(0, 0, 255, 0.5)';
-      el.style.borderColor = 'rgb(0, 0, 255)';
+      el.style.backgroundColor = 'rgba(51, 105, 255, 0.5)';
+      el.style.borderColor = 'rgb(51, 105, 255)';
       break;
     case 'random_production' :
       el.style.backgroundColor = 'rgba(127, 255, 0, 0.6)';
@@ -314,7 +314,7 @@ function createBuilding(data) {
       break;
     case 'residential' :
       el.style.backgroundColor = 'rgba(0, 180, 255, 0.6)';
-      el.style.borderColor = 'rgb(0, 180, 255)';
+      el.style.borderColor = 'rgb(51, 105, 255)';
       break;
     case 'decoration' :
       el.style.backgroundColor = 'rgba(34, 139, 34, 0.6)';
