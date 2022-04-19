@@ -290,11 +290,11 @@ function createBuilding(data) {
   switch (data.type) {
     case 'main_building' :
       el.style.backgroundColor = 'rgba(184, 134, 11, 0.6)';
-      el.style.borderColor = 'rgb(184, 134, 11)';
+      el.style.borderColor = 'rgb(0, 0, 0)';
       break;
     case 'greatbuilding' :
       el.style.backgroundColor = 'rgba(255, 69, 0, 0.6)';
-      el.style.borderColor = 'rgb(255,69,0)';
+      el.style.borderColor = 'rgb(255, 0, 0)';
       break;
     case 'production' :
       el.style.backgroundColor = 'rgba(51, 105, 255, 0.5)';
@@ -302,7 +302,7 @@ function createBuilding(data) {
       break;
     case 'random_production' :
       el.style.backgroundColor = 'rgba(127, 255, 0, 0.6)';
-      el.style.borderColor = 'rgb(127, 255, 0)';
+      el.style.borderColor = 'rgb(34, 139, 34)';
       break;
     case 'goods' :
       el.style.backgroundColor = 'rgba(160, 0, 240, 0.6)';
@@ -326,7 +326,7 @@ function createBuilding(data) {
       break;
     case 'tower' :
       el.style.backgroundColor = 'rgba(140, 70, 20, 0.8)';
-      el.style.borderColor = 'rgb(140, 70, 20)';
+      el.style.borderColor = 'rgb(0, 0, 0)';
       break;
     default :
       el.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
