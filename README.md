@@ -16,6 +16,10 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 9. Format the file
 
 ## Change log
+
+### 05/11/2022
+* Added color coding bsed on building type
+
 ### 3/02/2022
 * Importing latest building data
 * Adding npm command to serve for local testing
