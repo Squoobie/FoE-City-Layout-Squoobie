@@ -288,7 +288,7 @@ function createBuilding(data) {
   el.style.width = (buildingData[data.cityentity_id].width * zoomAmount) + 'px';
   let temp_type = (buildingData[data.cityentity_id].type);
 
-  switch (data.type) {
+  switch (temp_type) {
     case 'main_building' :
       el.style.backgroundColor = 'rgba(184, 134, 11, 0.6)';
       el.style.borderColor = 'rgb(0, 0, 0)';
