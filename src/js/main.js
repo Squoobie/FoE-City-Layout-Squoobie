@@ -181,10 +181,12 @@ function getMapLayout() {
     let cityentity_id = el.getAttribute('data-cityentity-id');
     let x = (parseInt(el.style.left) - xMove) / zoomAmount;
     let y = (parseInt(el.style.top) - yMove) / zoomAmount;
+    let type = el.type;
     data.push({
       cityentity_id,
       x,
-      y
+      y,
+      type
     });
   });
   return data;
