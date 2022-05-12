@@ -180,13 +180,11 @@ function getMapLayout() {
   grid.querySelectorAll('.buildingNode').forEach((el) => {
     let cityentity_id = el.getAttribute('data-cityentity-id');
     let x = (parseInt(el.style.left) - xMove) / zoomAmount;
-    let y = (parseInt(el.style.top) - yMove) / zoomAmount;
-    let type = el.type;
+    let y = (parseInt(el.style.top) - yMove) / zoomAmount
     data.push({
       cityentity_id,
       x,
-      y,
-      type
+      y
     });
   });
   return data;
@@ -288,6 +286,7 @@ function createBuilding(data) {
 
   el.style.height = (buildingData[data.cityentity_id].height * zoomAmount) + 'px';
   el.style.width = (buildingData[data.cityentity_id].width * zoomAmount) + 'px';
+  let temp_type = (buildingData[data.cityentity_id].type);
 
   switch (data.type) {
     case 'main_building' :
