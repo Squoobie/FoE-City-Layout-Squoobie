@@ -215,7 +215,7 @@ buildingList.forEach((building) => {
 
 function isPlayerBuilding(type) {
   switch (type.toLowerCase()) {
-    case 'street':
+//    case 'street':
     case 'outpost_ship':
     case 'friends_tavern':
     case 'off_grid':
@@ -327,6 +327,10 @@ function createBuilding(data) {
       break;
     case 'tower' :
       el.style.backgroundColor = 'rgba(140, 70, 20, 0.8)';
+      el.style.borderColor = 'rgb(0, 0, 0)';
+      break;
+    case 'street' :
+      el.style.backgroundColor = 'rgba(46, 62, 80, 0.8)';
       el.style.borderColor = 'rgb(0, 0, 0)';
       break;
     default :
