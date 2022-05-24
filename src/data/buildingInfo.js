@@ -10386,6 +10386,334 @@ var buildingData = {
     "height":4,
     "type":"residential",
     "id":1483
-  }
+  },
+  "A_MultiAge_ArcheologyBonus22a": {
+    "name":"Wildflower Meadow",
+    "width":3,
+    "height":2,
+    "type":"culture",
+    "id":1484
+  },
+  "A_SpaceAgeJupiterMoon_Culture1": {
+    "name":"Aquatic Museum",
+    "width":5,
+    "height":5,
+    "type":"culture",
+    "id":1485
+  },
+  "A_SpaceAgeJupiterMoon_Culture2": {
+    "name":"Red Seaweed Bar",
+    "width":3,
+    "height":5,
+    "type":"culture",
+    "id":1486
+  },
+  "D_MultiAge_ArcheologyBonus22a": {
+    "name":"Snapdragon Bloom",
+    "width":3,
+    "height":2,
+    "type":"decoration",
+    "id":1487
+  },
+  "D_MultiAge_ArcheologyBonus22b": {
+    "name":"Daylily Flowerbed",
+    "width":2,
+    "height":2,
+    "type":"decoration",
+    "id":1488
+  },
+    "D_MultiAge_ArcheologyBonus22c": {
+    "name":"Marigold Patch",
+    "width":3,
+    "height":2,
+    "type":"decoration",
+    "id":1489
+  },
+    "D_SpaceAgeJupiterMoon_Decoration1": {
+    "name":"Floating Flora",
+    "width":2,
+    "height":2,
+    "type":"decoration",
+    "id":1490
+  },
+    "G_SpaceAgeJupiterMoon_Goods1": {
+    "name":"Red Algae Farm",
+    "width":4,
+    "height":5,
+    "type":"goods",
+    "id":1491
+  },
+    "G_SpaceAgeJupiterMoon_Goods10": {
+    "name":"Glowing Seaweed Synthesizer",
+    "width":3,
+    "height":3,
+    "type":"goods",
+    "id":1492
+  },
+    "G_SpaceAgeJupiterMoon_Goods2": {
+    "name":"Oceanarium",
+    "width":5,
+    "height":4,
+    "type":"goods",
+    "id":1493
+  },
+    "G_SpaceAgeJupiterMoon_Goods3": {
+    "name":"Adventurer",
+    "width":3,
+    "height":6,
+    "type":"goods",
+    "id":1494
+  },
+    "G_SpaceAgeJupiterMoon_Goods4": {
+    "name":"Sponge Farm",
+    "width":6,
+    "height":4,
+    "type":"goods",
+    "id":1495
+  },
+    "G_SpaceAgeJupiterMoon_Goods5": {
+    "name":"Research Laboratory",
+    "width":4,
+    "height":6,
+    "type":"goods",
+    "id":1496
+  },
+    "G_SpaceAgeJupiterMoon_Goods6": {
+    "name":"Soy Proteins Synthesizer",
+    "width":3,
+    "height":3,
+    "type":"goods",
+    "id":1497
+  },
+    "G_SpaceAgeJupiterMoon_Goods7": {
+    "name":"Microgreen Supplement Synthesizer",
+    "width":3,
+    "height":3,
+    "type":"goods",
+    "id":1498
+  },
+    "G_SpaceAgeJupiterMoon_Goods8": {
+    "name":"Herbal Snack Synthesizer",
+    "width":3,
+    "height":3,
+    "type":"goods",
+    "id":1499
+  },
+    "G_SpaceAgeJupiterMoon_Goods9": {
+    "name":"Sugar Crystals Synthesizer",
+    "width":3,
+    "height":3,
+    "type":"goods",
+    "id":1500
+  },
+    "G_SpaceAgeJupiterMoon_SpecialGoods1": {
+    "name":"Venus Carbon Synthesizer",
+    "width":3,
+    "height":3,
+    "type":"goods",
+    "id":1501
+  },
+    "H_SpaceAgeJupiterMoon_Townhall": {
+    "name":"Town Hall",
+    "width":6,
+    "height":7,
+    "type":"main_building",
+    "id":1502
+  },
+    "H_SpaceAgeJupiterMoon_Townhall2": {
+    "name":"Town Hall",
+    "width":5,
+    "height":5,
+    "type":"main_building",
+    "id":1503
+  },
+    "K_SpaceAgeJupiterMoon_Lifesupport1": {
+    "name":"Oxygen Concentrator",
+    "width":2,
+    "height":2,
+    "type":"static_provider",
+    "id":1504
+  },
+    "K_SpaceAgeJupiterMoon_Lifesupport2": {
+    "name":"Organic Oxidator",
+    "width":2,
+    "height":3,
+    "type":"static_provider",
+    "id":1505
+  },
+    "K_SpaceAgeJupiterMoon_Lifesupport3": {
+    "name":"Deep Aquamarine",
+    "width":4,
+    "height":2,
+    "type":"static_provider",
+    "id":1506
+  },
+    "K_SpaceAgeJupiterMoon_Lifesupport4": {
+    "name":"Hydrographic Hub",
+    "width":4,
+    "height":4,
+    "type":"static_provider",
+    "id":1507
+  },
+    "L_AllAge_ArcheologyBonus22a": {
+    "name":"Sapphire Arch",
+    "width":1,
+    "height":3,
+    "type":"random_production",
+    "id":1508
+  },
+    "L_AllAge_ArcheologyBonus22b": {
+    "name":"Magenta Arch",
+    "width":1,
+    "height":3,
+    "type":"random_production",
+    "id":1509
+  },
+    "M_SpaceAgeJupiterMoon_Military1": {
+    "name":"Grenadier Armory",
+    "width":4,
+    "height":6,
+    "type":"military",
+    "id":1510
+  },
+    "M_SpaceAgeJupiterMoon_Military2": {
+    "name":"Glider Foundry",
+    "width":4,
+    "height":7,
+    "type":"military",
+    "id":1511
+  },
+    "M_SpaceAgeJupiterMoon_Military3": {
+    "name":"Aqua Drone Systems",
+    "width":6,
+    "height":4,
+    "type":"military",
+    "id":1512
+  },
+    "M_SpaceAgeJupiterMoon_Military4": {
+    "name":"Cavitation Assembler",
+    "width":7,
+    "height":4,
+    "type":"military",
+    "id":1513
+  },
+    "M_SpaceAgeJupiterMoon_Military5": {
+    "name":"Glacier Galvanizer",
+    "width":5,
+    "height":5,
+    "type":"military",
+    "id":1514
+  },
+    "R_MultiAge_ArcheologyBonus22a": {
+    "name":"Butterfly House - Lv. 1",
+    "width":4,
+    "height":3,
+    "type":"residential",
+    "id":1515
+  },
+    "R_MultiAge_ArcheologyBonus22b": {
+    "name":"Butterfly House - Lv. 2",
+    "width":4,
+    "height":3,
+    "type":"residential",
+    "id":1516
+  },
+    "R_MultiAge_ArcheologyBonus22c": {
+    "name":"Butterfly House - Lv. 3",
+    "width":4,
+    "height":3,
+    "type":"residential",
+    "id":1517
+  },
+    "R_MultiAge_ArcheologyBonus22d": {
+    "name":"Butterfly House - Lv. 4",
+    "width":4,
+    "height":3,
+    "type":"residential",
+    "id":1518
+  },
+    "R_MultiAge_ArcheologyBonus22e": {
+    "name":"Butterfly House - Lv. 5",
+    "width":4,
+    "height":3,
+    "type":"residential",
+    "id":1519
+  },
+    "R_SpaceAgeJupiterMoon_Residential3": {
+    "name":"Aqua Pod",
+    "width":2,
+    "height":2,
+    "type":"residential",
+    "id":1520
+  },
+    "R_SpaceAgeJupiterMoon_Residential4": {
+    "name":"Aqua Cabin",
+    "width":3,
+    "height":2,
+    "type":"residential",
+    "id":1521
+  },
+    "R_SpaceAgeJupiterMoon_Residential5": {
+    "name":"Autonomous Chambers",
+    "width":3,
+    "height":4,
+    "type":"residential",
+    "id":1522
+  },
+    "R_SpaceAgeJupiterMoon_Residential6": {
+    "name":"Aquarius Habitat",
+    "width":5,
+    "height":3,
+    "type":"residential",
+    "id":1523
+  },
+    "S_SpaceAgeJupiterMoon_CarStreet1": {
+    "name":"Aqueous Street",
+    "width":2,
+    "height":2,
+    "type":"street",
+    "id":1524
+  },
+    "S_SpaceAgeJupiterMoon_Street1": {
+    "name":"Juno Cobble Walk",
+    "width":1,
+    "height":1,
+    "type":"street",
+    "id":1525
+},
+    "S_SpaceAgeJupiterMoon_Street2": {
+    "name":"Rockweed Way",
+    "width":1,
+    "height":1,
+    "type":"street",
+    "id":1526
+},
+    "W_SpaceAgeJupiterMoon_Residential1": {
+    "name":"Juno Dwelling",
+    "type":"residential",
+    "id":1527
+},
+    "W_SpaceAgeJupiterMoon_Residential2": {
+    "name":"Titanus Residence",
+    "type":"residential",
+    "id":1528
+},
+    "W_SpaceAgeJupiterMoon_Workshop1": {
+    "name":"Aerospace Pharmacy",
+    "type":"production",
+    "id":1529
+},
+    "W_SpaceAgeJupiterMoon_Workshop2": {
+    "name":"Exhibition Bubble",
+    "type":"production",
+    "id":1530
+},
+    "X_SpaceAgeJupiterMoon_Landmark1": {
+    "name":"A.I. Core",
+    "width":5,
+    "height":5,
+    "type":"greatbuilding",
+    "id":1531
+}
 
 };

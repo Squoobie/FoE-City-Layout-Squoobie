@@ -215,7 +215,7 @@ buildingList.forEach((building) => {
 
 function isPlayerBuilding(type) {
   switch (type.toLowerCase()) {
-//    case 'street':
+    case 'street':
     case 'outpost_ship':
     case 'friends_tavern':
     case 'off_grid':
