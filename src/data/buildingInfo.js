@@ -10798,4 +10798,5 @@ var buildingData = {
     "height":4,
     "type":"residential",
     "id":1543
+}
 };
