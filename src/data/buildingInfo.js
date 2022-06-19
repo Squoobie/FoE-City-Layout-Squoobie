@@ -10714,7 +10714,7 @@ var buildingData = {
     "height":5,
     "type":"greatbuilding",
     "id":1531
-}
+},
     "D_MultiAge_SoccerBonus22flowerpath": {
     "name":"Flower Path",
     "width":1,
@@ -10735,13 +10735,14 @@ var buildingData = {
     "height":4,
     "type":"decoration",
     "id":1534
-  },
+},
     "D_MultiAge_SoccerBonus22wheatpath": {
     "name":"Wheat Path",
     "width":1,
     "height":4,
     "type":"decoration",
-    "id":1535},
+    "id":1535
+},
     "R_MultiAge_SoccerBonus22a": {
     "name":"Gentiana Windmill - Level 1",
     "width":5,
