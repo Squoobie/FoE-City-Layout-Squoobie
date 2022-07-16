@@ -10798,6 +10798,76 @@ var buildingData = {
     "height":4,
     "type":"residential",
     "id":1543
+  },
+    "P_MultiAge_WildBonus22": {
+    "name":"Insect Hotel",
+    "width":3,
+    "height":2,
+    "type":"production",
+    "id":1544
+  },
+    "R_MultiAge_WildBonus22a": {
+    "name":"Animal Crossing - Lv. 1",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1545
+  },
+    "R_MultiAge_WildBonus22b": {
+    "name":"Animal Crossing - Lv. 2",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1546
+  },
+    "R_MultiAge_WildBonus22c": {
+    "name":"Animal Crossing - Lv. 3",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1547
+  },
+    "R_MultiAge_WildBonus22d": {
+    "name":"Animal Crossing - Lv. 4",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1548
+  },
+    "R_MultiAge_WildBonus22e": {
+    "name":"Animal Crossing - Lv. 5",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1549
+  },
+    "R_MultiAge_WildBonus22f": {
+    "name":"Animal Crossing - Lv. 6",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1550
+  },
+    "R_MultiAge_WildBonus22g": {
+    "name":"Animal Crossing - Lv. 7",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1551
+  },
+    "R_MultiAge_WildBonus22h": {
+    "name":"Animal Crossing - Lv. 8",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1552
+  },
+    "R_MultiAge_WildBonus22i": {
+    "name":"Animal Crossing - Lv. 9",
+    "width":3,
+    "height":6,
+    "type":"residential",
+    "id":1553
   }
-
+  
 };
