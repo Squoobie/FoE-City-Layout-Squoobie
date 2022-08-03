@@ -10899,7 +10899,7 @@ var buildingData = {
   },
     "R_MultiAge_HeroBonus22d": {
     "name":"Heroes Tavern - Lv. 4",
-    "width":4
+    "width":4,
     "height":5,
     "type":"residential",
     "id":1558
