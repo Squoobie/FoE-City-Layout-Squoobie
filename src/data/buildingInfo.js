@@ -10868,6 +10868,89 @@ var buildingData = {
     "height":6,
     "type":"residential",
     "id":1553
+  },
+    "R_MultiAge_HeroBonus22": {
+    "name":"Knights Pavilion",
+    "width":2,
+    "height":2,
+    "type":"residential",
+    "id":1554
+  },
+    "R_MultiAge_HeroBonus22a": {
+    "name":"Heroes Tavern - Lv. 1",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1555
+  },
+    "R_MultiAge_HeroBonus22b":{
+    "name":"Heroes Tavern - Lv. 2",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1556
+  },
+    "R_MultiAge_HeroBonus22c": {
+    "name":"Heroes Tavern - Lv. 3",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1557
+  },
+    "R_MultiAge_HeroBonus22d": {
+    "name":"Heroes Tavern - Lv. 4",
+    "width":4
+    "height":5,
+    "type":"residential",
+    "id":1558
+  },
+    "R_MultiAge_HeroBonus22e": {
+    "name":"Heroes Tavern - Lv. 5",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1559
+  },
+    "R_MultiAge_HeroBonus22f": {
+    "name":"Heroes Tavern - Lv. 6",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1560
+  },
+    "R_MultiAge_HeroBonus22g": {
+    "name":"Heroes Tavern - Lv. 7",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1561
+  },
+    "R_MultiAge_HeroBonus22h": {
+    "name":"Heroes Tavern - Lv. 8",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1562
+  },
+    "R_MultiAge_HeroBonus22i": {
+    "name":"Heroes Tavern - Lv. 9",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1563
+  },
+    "R_MultiAge_HeroBonus22j": {
+    "name":"Heroes Tavern - Lv. 10",
+    "width":4,
+    "height":5,
+    "type":"residential",
+    "id":1564
+  },
+    "R_MultiAge_HeroBonus22pass": {
+    "name":"Flower Maidens",
+    "width":2,
+    "height":2,
+    "type":"residential",
+    "id":1565
   }
-  
 };
