@@ -17,6 +17,9 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 09/21/2022
+* Added Fall Event 2022 buildings 
+
 ### 05/11/2022
 * Added color coding bsed on building type
 
