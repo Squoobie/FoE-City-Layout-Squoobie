@@ -10952,5 +10952,124 @@ var buildingData = {
     "height":2,
     "type":"residential",
     "id":1565
+  },
+    "W_MultiAge_PassBonus22a": {
+    "name":"Forge Fountain - Active",
+    "width":2,
+    "height":2,
+    "type":"decoration",
+    "id":1566
+  },
+    "W_MultiAge_PassBonus22aDecoration": {
+    "name":"Forge Fountain - Inactive",
+    "width":2,
+    "height":2,
+    "type":"decoration",
+    "id":1567
+  },
+    "W_MultiAge_PassBonus22b": {
+    "name":"Cobalt Blue Lagoon - Active",
+    "width":2,
+    "height":2,
+    "type":"decoration",
+    "id":1568
+  },
+    "W_MultiAge_PassBonus22bDecoration": {
+    "name":"Cobalt Blue Lagoon - Inactive",
+    "width":2,
+    "height":2,
+    "type":"decoration",
+    "id":1569
+  },
+    "W_MultiAge_SummerBonus22Buccaneer": {
+    "name":"Buccaneer's Boathouse",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1570
+  },
+    "W_MultiAge_SummerBonus22Deadman": {
+    "name":"Deadman's Boathouse",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1571
+  },
+    "W_MultiAge_SummerBonus22a": {
+    "name":"Privateer's Boathouse - Lv. 1",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1572
+  },
+    "W_MultiAge_SummerBonus22b": {
+    "name":"Privateer's Boathouse - Lv. 2",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1573
+  },
+    "W_MultiAge_SummerBonus22c": {
+    "name":"Privateer's Boathouse - Lv. 3",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1574
+  },
+    "W_MultiAge_SummerBonus22d": {
+    "name":"Privateer's Boathouse - Lv. 4",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1575
+  },
+    "W_MultiAge_SummerBonus22e": {
+    "name":"Privateer's Boathouse - Lv. 5",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1576
+  },
+    "W_MultiAge_SummerBonus22f": {
+    "name":"Privateer's Boathouse - Lv. 6",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1577
+  },
+    "W_MultiAge_SummerBonus22g": {
+    "name":"Privateer's Boathouse - Lv. 7",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1578
+  },
+    "W_MultiAge_SummerBonus22h": {
+    "name":"Privateer's Boathouse - Lv. 8",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1579
+  },
+    "W_MultiAge_SummerBonus22i": {
+    "name":"Privateer's Boathouse - Lv. 9",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1580
+  },
+    "W_MultiAge_SummerBonus22j": {
+    "name":"Privateer's Boathouse - Lv. 10",
+    "width":4,
+    "height":4,
+    "type":"residential",
+    "id":1581
+  },
+    "P_PlaceHolder4x5": {
+    "name":"Place Holder 4x5",
+    "width":4,
+    "height":5,
+    "type":"Placeholder",
+    "id":1582
   }
 };
