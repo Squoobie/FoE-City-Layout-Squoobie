@@ -11065,11 +11065,74 @@ var buildingData = {
     "type":"residential",
     "id":1581
   },
-    "P_PlaceHolder4x5": {
-    "name":"Place Holder 4x5",
+    "R_MultiAge_FallBonus22a": {
+    "name":"Sunflower Oil Press - Lv. 1",
     "width":4,
-    "height":5,
-    "type":"Placeholder",
+    "height":6,
+    "type":"residential",
     "id":1582
+  },
+    "R_MultiAge_FallBonus22b": {
+    "name":"Sunflower Oil Press - Lv. 2",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1583
+  },
+    "R_MultiAge_FallBonus22c": {
+    "name":"Sunflower Oil Press - Lv. 3",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1584
+  },
+    "R_MultiAge_FallBonus22d": {
+    "name":"Sunflower Oil Press - Lv. 4",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1585
+  },
+    "R_MultiAge_FallBonus22e": {
+    "name":"Sunflower Oil Press - Lv. 5",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1586
+  },
+    "R_MultiAge_FallBonus22f": {
+    "name":"Sunflower Oil Press - Lv. 6",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1587
+  },
+    "R_MultiAge_FallBonus22g": {
+    "name":"Sunflower Oil Press - Lv. 7",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1588
+  },
+    "R_MultiAge_FallBonus22h": {
+    "name":"Sunflower Oil Press - Lv. 8",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1589
+  },
+    "R_MultiAge_FallBonus22i": {
+    "name":"Sunflower Oil Press - Lv. 9",
+    "width":4,
+    "height":6,
+    "type":"residential",
+    "id":1590
+  },
+    "W_MultiAge_FallBonus22donkey": {
+    "name":"Donkey Enclosure",
+    "width":2,
+    "height":2,
+    "type":"residential",
+    "id":1591
   }
 };
