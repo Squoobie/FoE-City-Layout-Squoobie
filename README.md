@@ -17,6 +17,9 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 11/14/2022
+* Began adding generic buildings. Named "Generic WxH." they can be added to a city, not imported, to take the place of new buildings that have not yet been added to the tool
+
 ### 10/12/2022
 * Added Fall Event 2022 buildings 
 
