@@ -8210,64 +8210,63 @@ var buildingData = {
     "type": "residential",
     "id": 1172
   },
-  "R_MultiAge_SummerBonus20": {"name": "Governor's Villa (Lv 1-7)","width": 6,"height": 5,"type": "residential","id": 1179},
-  "xR_MultiAge_SummerBonus20a": {
+  "R_MultiAge_SummerBonus20a": {
     "name": "Governor's Villa - Lv. 1",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1173
   },
-  "xR_MultiAge_SummerBonus20b": {
+  "R_MultiAge_SummerBonus20b": {
     "name": "Governor's Villa - Lv. 2",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1174
   },
-  "xR_MultiAge_SummerBonus20c": {
+  "R_MultiAge_SummerBonus20c": {
     "name": "Governor's Villa - Lv. 3",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1175
   },
-  "xR_MultiAge_SummerBonus20d": {
+  "R_MultiAge_SummerBonus20d": {
     "name": "Governor's Villa - Lv. 4",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1176
   },
-  "xR_MultiAge_SummerBonus20e": {
+  "R_MultiAge_SummerBonus20e": {
     "name": "Governor's Villa - Lv. 5",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1177
   },
-  "xR_MultiAge_SummerBonus20f": {
+  "R_MultiAge_SummerBonus20f": {
     "name": "Governor's Villa - Lv. 6",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1178
   },
-  "xR_MultiAge_SummerBonus20g": {
+  "R_MultiAge_SummerBonus20g": {
     "name": "Governor's Villa - Lv. 7",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1179
   },
-  "xR_MultiAge_SummerBonus20h": {
+  "R_MultiAge_SummerBonus20h": {
     "name": "Governor's Villa - Lv. 8",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1180
   },
-  "xR_MultiAge_SummerBonus20i": {
+  "R_MultiAge_SummerBonus20i": {
     "name": "Governor's Villa - Lv. 9",
     "width": 6,
     "height": 5,
@@ -11137,6 +11136,7 @@ var buildingData = {
     "id":1591
   },
 
+  "R_MultiAge_SummerBonus20z": {"name": "Governor's Villa (Lv 1-7)","width": 6,"height": 5,"type": "residential","id": 1600},
   "Generic_1x1": {"name":"Generic 1x1","width":1,"height":1,"type":"generic","id":1611},
   "Generic_1x2": {"name":"Generic 1x2","width":2,"height":1,"type":"generic","id":1612},
   "Generic_1x3": {"name":"Generic 1x3","width":3,"height":1,"type":"generic","id":1613},
