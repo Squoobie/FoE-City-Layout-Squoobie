@@ -8210,63 +8210,64 @@ var buildingData = {
     "type": "residential",
     "id": 1172
   },
-  "R_MultiAge_SummerBonus20a": {
+  "R_MultiAge_SummerBonus20": {"name": "Governor's Villa (Lv 1-7)","width": 6,"height": 5,"type": "residential","id": 1179},
+  "xR_MultiAge_SummerBonus20a": {
     "name": "Governor's Villa - Lv. 1",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1173
   },
-  "R_MultiAge_SummerBonus20b": {
+  "xR_MultiAge_SummerBonus20b": {
     "name": "Governor's Villa - Lv. 2",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1174
   },
-  "R_MultiAge_SummerBonus20c": {
+  "xR_MultiAge_SummerBonus20c": {
     "name": "Governor's Villa - Lv. 3",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1175
   },
-  "R_MultiAge_SummerBonus20d": {
+  "xR_MultiAge_SummerBonus20d": {
     "name": "Governor's Villa - Lv. 4",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1176
   },
-  "R_MultiAge_SummerBonus20e": {
+  "xR_MultiAge_SummerBonus20e": {
     "name": "Governor's Villa - Lv. 5",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1177
   },
-  "R_MultiAge_SummerBonus20f": {
+  "xR_MultiAge_SummerBonus20f": {
     "name": "Governor's Villa - Lv. 6",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1178
   },
-  "R_MultiAge_SummerBonus20g": {
+  "xR_MultiAge_SummerBonus20g": {
     "name": "Governor's Villa - Lv. 7",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1179
   },
-  "R_MultiAge_SummerBonus20h": {
+  "xR_MultiAge_SummerBonus20h": {
     "name": "Governor's Villa - Lv. 8",
     "width": 6,
     "height": 5,
     "type": "residential",
     "id": 1180
   },
-  "R_MultiAge_SummerBonus20i": {
+  "xR_MultiAge_SummerBonus20i": {
     "name": "Governor's Villa - Lv. 9",
     "width": 6,
     "height": 5,
