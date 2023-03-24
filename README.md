@@ -17,6 +17,9 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 3/24/2023
+* added new buildings
+
 ### 1/10/2023
 * added halloween 2022 and winter 2022 buildings
 * note: process has stopped inmporting building dimensions, so have to edit them in manually - not sure why, perhaps a change by inno on the format of the string?
