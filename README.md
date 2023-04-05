@@ -17,6 +17,9 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 4/5/2023
+* Added buildings for GE5 and 11th anniversery event
+
 ### 3/24/2023
 * added new buildings
 
