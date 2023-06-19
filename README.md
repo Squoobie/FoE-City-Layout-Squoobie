@@ -17,61 +17,49 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 6/19/2023
+* Updates for 2023 summer event 
+### 5/21/2023
+* Updates for 2023 wildlife event (panda buildings)
 ### 4/5/2023
 * Added buildings for GE5 and 11th anniversery event
-
 ### 3/24/2023
 * added new buildings
-
 ### 1/10/2023
 * added halloween 2022 and winter 2022 buildings
 * note: process has stopped inmporting building dimensions, so have to edit them in manually - not sure why, perhaps a change by inno on the format of the string?
-
 ### 11/14/2022
 * Began adding generic buildings. Named "Generic WxH." they can be added to a city, not imported, to take the place of new buildings that have not yet been added to the tool
-
 ### 10/12/2022
 * Added Fall Event 2022 buildings 
-
 ### 09/21/2022
 * Added Summer Event 2022 buildings 
-
 ### 05/11/2022
 * Added color coding bsed on building type
-
 ### 3/02/2022
 * Importing latest building data
 * Adding npm command to serve for local testing
-
 ### 5/12/2021
 * Importing latest building data
-
 ### 31/10/2021
 * Importing latest building data
 * Adjusting updateBuildingInfo to handle new FoE Data format
-
 ### 14/10/2021
 * Implemented ability to Alt + Click to multiselect and drag
-
 ### 8/10/2021
 * Importing latest building data
 * Adjusting updateBuildingInfo to handle new FoE data format
-
 ### 17/08/2021
 * Importing latest building data
-
 ### 25/07/2021
 * Importing latest building data
-
 ### 7/06/2021
 * Removed old import method, only option is FoE Helpers 'Copy citymap data' button in the 'Town overview' modal
 * Imported latest building data
-
 ### 19/05/2021
 * Imported latest building data
 * Updated Readme with steps to update buildings
 * Fixed handling of copied text, not sure if Chrome changed JSON output
-
 ### 12/04/2021
 * Imported latest building data
 * Allow the importing of FoE Helper - Your city - Copy citymap data
