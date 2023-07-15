@@ -4697,7 +4697,7 @@ var buildingData = {
     "id": 670
   },
   "R_Japanese_Residential1": {
-    "name": "GasshÃÂ-zukuri Hut",
+    "name": "Gassho-zukuri Hut",
     "width": 2,
     "height": 2,
     "type": "residential",
@@ -11218,8 +11218,8 @@ var buildingData = {
   "R_MultiAge_Expedition22b": {"name":"Feathered Serpent Statue - Lv. 2","width":2,"height":3,"type":"residential","id":1669},
   "R_MultiAge_Expedition22c": {"name":"Feathered Serpent Statue - Lv. 3","width":2,"height":3,"type":"residential","id":1670},
   "T_AllAge_Expedition16c": {"name":"Greater Ritual Flame","width":1,"height":2,"type":"tower","id":1671},
-  "W_MultiAge_Expedition22": {"name":"Forgotten Temple - Active","type":"decoration","id":1672},
-  "W_MultiAge_Expedition22Decoration": {"name":"Forgotten Temple - Inactive","type":"decoration","id":1673},
+  "W_MultiAge_Expedition22": {"name":"Forgotten Temple - Active","width":4,"height":3,"type":"decoration","id":1672},
+  "W_MultiAge_Expedition22Decoration": {"name":"Forgotten Temple - Inactive","width":4,"height":3,"type":"decoration","id":1673},
 
   "D_MultiAge_WILD23B": {"name":"Bamboo Bridge","width":2,"height":4,"type":"decoration","id":1674},
   "D_MultiAge_WILD23C": {"name":"Purple Bamboo Park","width":2,"height":4,"type":"decoration","id":1675},
