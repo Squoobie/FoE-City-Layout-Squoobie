@@ -422,8 +422,6 @@ function renderCity() {
   
   Object.keys(cityData).forEach(building => {
     building = cityData[building];
-    let temp_null = (buildingData[building.cityentity_id].type);
-    if (temp_null == null) building = cityData["Generix_1x1"];
     if (!isPlayerBuilding(buildingData[building.cityentity_id].type)) return;
     grid.appendChild(createBuilding(building));
   });
