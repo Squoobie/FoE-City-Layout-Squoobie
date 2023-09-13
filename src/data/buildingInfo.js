@@ -11310,6 +11310,7 @@ var buildingData = {
   "X_SpaceAgeTitan_Landmark2":    {"name":"Saturn VI Gate PEGASUS",         "width":4,"height":4,"type":"greatbuilding","id":1757},
   "X_SpaceAgeTitan_Landmark3":    {"name":"Saturn VI Gate HYDRA",           "width":4,"height":4,"type":"greatbuilding","id":1758},
 
+<<<<<<< HEAD
   "R_MultiAge_SoccerBonus21k":    {"name":"Azure Athlon Abbey",             "width":4,"height":5,"type":"residential","id":1759},
   "R_MultiAge_SoccerBonus22zzz":    {"name":"Wisteria Windmill",              "width":5,"height":4,"type":"residential","id":1760},
   "W_MultiAge_CUP23A1":           {"name":"Aegean Resort - Lv. 1",          "width":5,"height":4,"type":"residential","id":1761},
@@ -11328,6 +11329,9 @@ var buildingData = {
   "W_MultiAge_CUP23C1":           {"name":"Golden Goal Gyros",              "width":2,"height":2,"type":"residential","id":1774},
   "W_MultiAge_CUP23D1":           {"name":"Flowering Bougainvillea Tree",   "width":2,"height":1,"type":"residential","id":1775},
   
+=======
+  "R_MultiAge_SummerBonus20z": {"name": "Governor's Villa (Lv 1-7)","width": 6,"height": 5,"type": "residential","id": 3000},
+>>>>>>> parent of 1f9968c (Soccer 2023 Event)
   "Generic_1x1": {"name":"Generic 1x1","width":1,"height":1,"type":"generic","id":3011},
   "Generic_1x2": {"name":"Generic 1x2","width":2,"height":1,"type":"generic","id":3012},
   "Generic_1x3": {"name":"Generic 1x3","width":3,"height":1,"type":"generic","id":3013},
