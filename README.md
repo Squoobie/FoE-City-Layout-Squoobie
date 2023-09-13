@@ -17,6 +17,8 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 9/12/2023
+* Updates for 2023 soccer event 
 ### 8/3/2023
 * Updates for 2023 fellowship event and soace age titan 
 ### 6/19/2023
