@@ -422,6 +422,7 @@ function renderCity() {
   
   Object.keys(cityData).forEach(building => {
     building = cityData[building];
+    if buildingData[building.cityentity_id].type == null buildingData[building.cityentity_id].type = "generic";
     if (!isPlayerBuilding(buildingData[building.cityentity_id].type)) return;
     grid.appendChild(createBuilding(building));
   });

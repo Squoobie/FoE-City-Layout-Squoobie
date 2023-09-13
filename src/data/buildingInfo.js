@@ -11311,7 +11311,7 @@ var buildingData = {
   "X_SpaceAgeTitan_Landmark3":    {"name":"Saturn VI Gate HYDRA",           "width":4,"height":4,"type":"greatbuilding","id":1758},
 
   "R_MultiAge_SoccerBonus21k":    {"name":"Azure Athlon Abbey",             "width":4,"height":5,"type":"residential","id":1759},
-  "R_MultiAge_SoccerBonus22izzz":    {"name":"Wisteria Windmill",              "width":5,"height":4,"type":"residential","id":1760},
+  "R_MultiAge_SoccerBonus22zzz":    {"name":"Wisteria Windmill",              "width":5,"height":4,"type":"residential","id":1760},
   "W_MultiAge_CUP23A1":           {"name":"Aegean Resort - Lv. 1",          "width":5,"height":4,"type":"residential","id":1761},
   "W_MultiAge_CUP23A10a":         {"name":"Aegean Couples Resort",          "width":5,"height":4,"type":"residential","id":1762},
   "W_MultiAge_CUP23A10b":         {"name":"Aegean Garden Resort",           "width":5,"height":4,"type":"residential","id":1763},
