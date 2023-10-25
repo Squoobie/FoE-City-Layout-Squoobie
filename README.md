@@ -17,6 +17,8 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 10/26/2023
+* Updates. Change Dynamic to Truce. Added more generic shapes. 
 ### 10/10/2023
 * Updates for 2023 fall event 
 ### 8/3/2023
