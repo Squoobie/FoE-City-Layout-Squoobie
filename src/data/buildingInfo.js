@@ -7560,7 +7560,7 @@ var buildingData = {
     "id": 1079
   },
   "X_TomorrowEra_Landmark2": {
-    "name": "Dynamic Tower",
+    "name": "Truce Tower",
     "width": 5,
     "height": 6,
     "type": "greatbuilding",
@@ -11393,6 +11393,38 @@ var buildingData = {
   "Generic_6x4": {"name":"Generic 6x4","width":4,"height":6,"type":"generic","id":3064},
   "Generic_6x5": {"name":"Generic 6x5","width":5,"height":6,"type":"generic","id":3065},
   "Generic_6x6": {"name":"Generic 6x6","width":6,"height":6,"type":"generic","id":3066},
-  "Generic_6x7": {"name":"Generic 6x7","width":7,"height":6,"type":"generic","id":3067}
+  "Generic_6x7": {"name":"Generic 6x7","width":7,"height":6,"type":"generic","id":3067},
+  "Generic_6x8": {"name":"Generic 6x8","width":8,"height":6,"type":"generic","id":3068},
+  "Generic_6x9": {"name":"Generic 6x9","width":9,"height":6,"type":"generic","id":3069},
+
+  "Generic_7x1": {"name":"Generic 7x1","width":1,"height":7,"type":"generic","id":3071},
+  "Generic_7x2": {"name":"Generic 7x2","width":2,"height":7,"type":"generic","id":3072},
+  "Generic_7x3": {"name":"Generic 7x3","width":3,"height":7,"type":"generic","id":3073},
+  "Generic_7x4": {"name":"Generic 7x4","width":4,"height":7,"type":"generic","id":3074},
+  "Generic_7x5": {"name":"Generic 7x5","width":5,"height":7,"type":"generic","id":3075},
+  "Generic_7x6": {"name":"Generic 7x6","width":6,"height":7,"type":"generic","id":3076},
+  "Generic_7x7": {"name":"Generic 7x7","width":7,"height":7,"type":"generic","id":3077},
+  "Generic_7x8": {"name":"Generic 7x8","width":8,"height":7,"type":"generic","id":3078},
+  "Generic_7x9": {"name":"Generic 7x9","width":9,"height":7,"type":"generic","id":3079},
+
+  "Generic_8x1": {"name":"Generic 8x1","width":1,"height":8,"type":"generic","id":3081},
+  "Generic_8x2": {"name":"Generic 8x2","width":2,"height":8,"type":"generic","id":3082},
+  "Generic_8x3": {"name":"Generic 8x3","width":3,"height":8,"type":"generic","id":3083},
+  "Generic_8x4": {"name":"Generic 8x4","width":4,"height":8,"type":"generic","id":3084},
+  "Generic_8x5": {"name":"Generic 8x5","width":5,"height":8,"type":"generic","id":3085},
+  "Generic_8x6": {"name":"Generic 8x6","width":6,"height":8,"type":"generic","id":3086},
+  "Generic_8x7": {"name":"Generic 8x7","width":7,"height":8,"type":"generic","id":3087},
+  "Generic_8x8": {"name":"Generic 8x8","width":8,"height":8,"type":"generic","id":3088},
+  "Generic_8x9": {"name":"Generic 8x9","width":9,"height":8,"type":"generic","id":3089},
+
+  "Generic_9x1": {"name":"Generic 9x1","width":1,"height":9,"type":"generic","id":3091},
+  "Generic_9x2": {"name":"Generic 9x2","width":2,"height":9,"type":"generic","id":3092},
+  "Generic_9x3": {"name":"Generic 9x3","width":3,"height":9,"type":"generic","id":3093},
+  "Generic_9x4": {"name":"Generic 9x4","width":4,"height":9,"type":"generic","id":3094},
+  "Generic_9x5": {"name":"Generic 9x5","width":5,"height":9,"type":"generic","id":3095},
+  "Generic_9x6": {"name":"Generic 9x6","width":6,"height":9,"type":"generic","id":3096},
+  "Generic_9x7": {"name":"Generic 9x7","width":7,"height":9,"type":"generic","id":3097},
+  "Generic_9x8": {"name":"Generic 9x8","width":8,"height":9,"type":"generic","id":3098},
+  "Generic_9x9": {"name":"Generic 9x9","width":9,"height":9,"type":"generic","id":3099}
 
 };
