@@ -290,7 +290,7 @@ function createBuilding(data) {
 
   switch (temp_type) {
     case 'main_building' :
-      el.style.backgroundColor = 'rgba(184, 134, 11, 0.6)';
+      el.style.backgroundColor = 'rgba(255, 179, 0, 0.6)';
       el.style.borderColor = 'rgb(0, 0, 0)';
       break;
     case 'greatbuilding' :
@@ -317,9 +317,13 @@ function createBuilding(data) {
       el.style.backgroundColor = 'rgba(0, 180, 255, 0.6)';
       el.style.borderColor = 'rgb(51, 105, 255)';
       break;
-    case 'decoration' :
+    case 'decoration-old' :
       el.style.backgroundColor = 'rgba(34, 139, 34, 0.6)';
       el.style.borderColor = 'rgb(34, 139, 34)';
+      break;
+    case 'decoration' :
+      el.style.backgroundColor = 'rgba(121, 59, 201, 0.6)';
+      el.style.borderColor = 'rgb(61, 39, 131)';
       break;
     case 'culture' :
       el.style.backgroundColor = 'rgba(140, 70, 20, 0.6)';

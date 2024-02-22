@@ -11304,7 +11304,7 @@ var buildingData = {
   "W_MultiAge_FELL23A8":          {"name":"Summerhold Manor - Lv.8",        "width":4,"height":4,"type":"residential","id":1751},
   "W_MultiAge_FELL23A9":          {"name":"Summerhold Manor - Lv.9",        "width":4,"height":4,"type":"residential","id":1752},
   "W_MultiAge_FELL23B1":          {"name":"Jester's Stage",                 "width":3,"height":2,"type":"residential","id":1753},
-  "W_MultiAge_FELL23C1":          {"name":"Grilling Grove",                 "width":2,"height":2,"type":"residential","id":1754},
+  "W_MultiAge_FELL23C1":          {"name":"Grilling Grove",                 "width":2,"height":2,"type":"decoration","id":1754},
   "W_MultiAge_FELL23D1":          {"name":"Trailside Smithy",               "width":1,"height":1,"type":"residential","id":1755},
   "X_SpaceAgeTitan_Landmark1":    {"name":"Saturn VI Gate CENTAURUS",       "width":4,"height":4,"type":"greatbuilding","id":1756},
   "X_SpaceAgeTitan_Landmark2":    {"name":"Saturn VI Gate PEGASUS",         "width":4,"height":4,"type":"greatbuilding","id":1757},
@@ -11324,7 +11324,7 @@ var buildingData = {
   "W_MultiAge_CUP23A7":           {"name":"Aegean Resort - Lv. 7",          "width":5,"height":4,"type":"decoration","id":1770},
   "W_MultiAge_CUP23A8":           {"name":"Aegean Resort - Lv. 8",          "width":5,"height":4,"type":"decoration","id":1771},
   "W_MultiAge_CUP23A9":           {"name":"Aegean Resort - Lv. 9",          "width":5,"height":4,"type":"decoration","id":1772},
-  "W_MultiAge_CUP23B1":           {"name":"Feta Farm",                      "width":2,"height":3,"type":"residential","id":1773},
+  "W_MultiAge_CUP23B1":           {"name":"Feta Farm",                      "width":2,"height":3,"type":"decoration","id":1773},
   "W_MultiAge_CUP23C1":           {"name":"Golden Goal Gyros",              "width":2,"height":2,"type":"residential","id":1774},
   "W_MultiAge_CUP23D1":           {"name":"Flowering Bougainvillea Tree",   "width":2,"height":1,"type":"residential","id":1775},
 
@@ -11371,7 +11371,7 @@ var buildingData = {
   "W_MultiAge_HAL23C1":             {"name":"Tower of Whispering Horrors",           "width":3,"height":2,"type":"residential","id":1815},
   "W_MultiAge_HAL23D1":             {"name":"Monster Wares' Terrors Boutique",       "width":3,"height":3,"type":"residential","id":1816},
   "W_MultiAge_HAL23E1":             {"name":"Batsy Bar's Ectoplasmic Elixirs",       "width":2,"height":2,"type":"residential","id":1817},
-  "W_MultiAge_HAL23F1":             {"name":"Monster Ranch's Nightmare Box",         "width":1,"height":2,"type":"residential","id":1818},
+  "W_MultiAge_HAL23F1":             {"name":"Monster Ranch's Nightmare Box",         "width":1,"height":2,"type":"decoration","id":1818},
   "W_MultiAge_HAL23G1":             {"name":"Spectral Steeds' Phantom Carriage",     "width":3,"height":1,"type":"residential","id":1819},
   "W_MultiAge_HalloweenBonusGP22m": {"name":"Arcane Tarot Card Caravans",            "width":4,"height":5,"type":"residential","id":1820},
 
@@ -11397,7 +11397,7 @@ var buildingData = {
   "W_MultiAge_WIN23C4":             {"name":"Elfie's Cream & Nog Emporium",          "width":3,"height":3,"type":"residential","id":1841},
   "W_MultiAge_WIN23D1":             {"name":"Santa's Spectacular Showtime",          "width":3,"height":3,"type":"residential","id":1842},
   "W_MultiAge_WIN23E1":             {"name":"Capy's Winter Holiday Spa",             "width":2,"height":3,"type":"residential","id":1843},
-  "W_MultiAge_WIN23F1":             {"name":"Magical Winter Snow Globe",             "width":3,"height":2,"type":"residential","id":1844},
+  "W_MultiAge_WIN23F1":             {"name":"Magical Winter Snow Globe",             "width":3,"height":2,"type":"decoration","id":1844},
 
   "W_MultiAge_WILD24A1":     {"name":"Flamingo Habitat - Lv. 1",   "width":4,"height":5,"type":"residential","id":1844},
   "W_MultiAge_WILD24A10":    {"name":"Flamingo Habitat - Lv. 10",  "width":4,"height":5,"type":"residential","id":1845},
