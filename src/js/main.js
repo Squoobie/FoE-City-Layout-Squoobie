@@ -317,9 +317,9 @@ function createBuilding(data) {
       el.style.backgroundColor = 'rgba(0, 180, 255, 0.6)';
       el.style.borderColor = 'rgb(51, 105, 255)';
       break;
-    case 'decoration-old' :
-      el.style.backgroundColor = 'rgba(34, 139, 34, 0.6)';
-      el.style.borderColor = 'rgb(34, 139, 34)';
+    case 'residentialnr' :
+      el.style.backgroundColor = 'rgba(121, 59, 201, 0.6)';
+      el.style.borderColor = 'rgb(61, 39, 131)';
       break;
     case 'decoration' :
       el.style.backgroundColor = 'rgba(121, 59, 201, 0.6)';

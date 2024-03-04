@@ -17,6 +17,8 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 03/04/2024
+* Updates for St. Patrick 2024 event.
 ### 01/20/2024
 * Updates for Wildlife 2024 event.
 ### 01/02/2024
