@@ -11343,7 +11343,7 @@ var buildingData = {
   "W_MultiAge_FALL23B1":           {"name":"Grape Stompin' Festival - Lv. 1", "width":2,"height":3,"type":"decoration","id":1788},
   "W_MultiAge_FALL23B2":           {"name":"Grape Stompin' Festival - Lv. 2", "width":2,"height":3,"type":"decoration","id":1789},
   "W_MultiAge_FALL23C1":           {"name":"Jumpin' Pumpkin",                 "width":2,"height":2,"type":"production","id":1790},
-  "W_MultiAge_FALL23D1":           {"name":"Cider Garden",                    "width":2,"height":2,"type":"residential","id":1791},
+  "W_MultiAge_FALL23D1":           {"name":"Cider Garden",                    "width":2,"height":2,"type":"residentialnr","id":1791},
   "W_MultiAge_FALL23E1":           {"name":"Shroom Throne",                   "width":1,"height":1,"type":"residential","id":1792},
   "W_MultiAge_FALL23F1":           {"name":"Granny Aurora's Apple Tree",      "width":1,"height":1,"type":"residential","id":1793},
   "W_MultiAge_GBG2023A":           {"name":"Tourney Grounds - Active",        "width":4,"height":3,"type":"decoration","id":1794},
