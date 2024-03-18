@@ -298,8 +298,8 @@ function createBuilding(data) {
       el.style.borderColor = 'rgb(255, 0, 0)';
       break;
     case 'production' :
-      el.style.backgroundColor = 'rgba(51, 105, 255, 0.5)';
-      el.style.borderColor = 'rgb(51, 105, 255)';
+      el.style.backgroundColor = 'rgba(39, 50, 255, 0.7)';
+      el.style.borderColor = 'rgb(39, 50, 255)';
       break;
     case 'random_production' :
       el.style.backgroundColor = 'rgba(127, 255, 0, 0.6)';
