@@ -17,6 +17,8 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 04/14/2024
+* Updates for the anniversary event, polynesian settlement, and other modified settlement buildings.
 ### 03/04/2024
 * Updates for St. Patrick 2024 event.
 ### 01/20/2024
