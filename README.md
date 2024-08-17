@@ -17,6 +17,8 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 08/17/2024
+* reimported new buildings as some id's had changed.
 ### 08/9/2024
 * Updates for the mew buildings.
 ### 04/14/2024

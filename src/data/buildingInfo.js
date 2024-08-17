@@ -10596,83 +10596,6 @@ var buildingData = {
     "type":"residential",
     "id":1553
   },
-    "R_MultiAge_HeroBonus22": {
-    "name":"Knights Pavilion",
-    "width":2,
-    "height":2,
-    "type":"residential",
-    "id":1554
-  },
-    "R_MultiAge_HeroBonus22a": {
-    "name":"Heroes Tavern - Lv. 1",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1555
-  },
-    "R_MultiAge_HeroBonus22b":{
-    "name":"Heroes Tavern - Lv. 2",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1556
-  },
-    "R_MultiAge_HeroBonus22c": {
-    "name":"Heroes Tavern - Lv. 3",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1557
-  },
-    "R_MultiAge_HeroBonus22d": {
-    "name":"Heroes Tavern - Lv. 4",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1558
-  },
-    "R_MultiAge_HeroBonus22e": {
-    "name":"Heroes Tavern - Lv. 5",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1559
-  },
-    "R_MultiAge_HeroBonus22f": {
-    "name":"Heroes Tavern - Lv. 6",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1560
-  },
-    "R_MultiAge_HeroBonus22g": {
-    "name":"Heroes Tavern - Lv. 7",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1561
-  },
-    "R_MultiAge_HeroBonus22h": {
-    "name":"Heroes Tavern - Lv. 8",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1562
-  },
-    "R_MultiAge_HeroBonus22i": {
-    "name":"Heroes Tavern - Lv. 9",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1563
-  },
-    "R_MultiAge_HeroBonus22j": {
-    "name":"Heroes Tavern - Lv. 10",
-    "width":4,
-    "height":5,
-    "type":"residential",
-    "id":1564
-  },
     "R_MultiAge_HeroBonus22pass": {
     "name":"Flower Maidens",
     "width":2,
@@ -10949,9 +10872,6 @@ var buildingData = {
   "M_SpaceAgeTitan_Military5":    {"name":"Orbital Base",                   "width":6,"height":4,"type":"military","id":1732},
   "P_SpaceAgeTitan_Workshop1":    {"name":"Engine Service",                 "width":4,"height":4,"type":"production","id":1733},
   "P_SpaceAgeTitan_Workshop2":    {"name":"Bar of Empires",                 "width":3,"height":3,"type":"production","id":1734},
-
-  "R_MultiAge_HeroBonus22k":      {"name":"Legendary Lodge",                "width":4,"height":5,"type":"residential","id":1735},
-  "W_MultiAge_FELL22A11":         {"name":"Legendary Lodge",                "width":4,"height":5,"type":"residential","id":9735},
 
   "R_SpaceAgeTitan_Residential1": {"name":"Ice Dwelling",                   "width":3,"height":4,"type":"residential","id":1736},
   "R_SpaceAgeTitan_Residential2": {"name":"Frost Dwelling",                 "width":2,"height":3,"type":"residential","id":1737},
@@ -11381,6 +11301,37 @@ var buildingData = {
   "W_MultiAge_TEMP24GRDecoration":{"name":"Chrono Column - Inactive", "width":2,"height":2,"type":"decoration","id":2146},
   "W_MultiAge_TEMP24WW":{"name":"Wish Fountain - Active",             "width":2,"height":2,"type":"decoration","id":2147},
   "W_MultiAge_TEMP24WWDecoration":{"name":"Wish Fountain - Inactive", "width":2,"height":2,"type":"decoration","id":2148},
+
+  "W_MultiAge_FELL22A1":{"name":"Heroes Tavern - Lv. 1",           "width":4,"height":5,"type":"residential","id":2148},
+  "W_MultiAge_FELL22A10":{"name":"Heroes Tavern - Lv. 10",         "width":4,"height":5,"type":"residential","id":2149},
+  "W_MultiAge_FELL22A11":{"name":"Legendary Lodge",                "width":4,"height":5,"type":"residential","id":9735},
+  "W_MultiAge_FELL22A12":{"name":"Mythical Manor",                 "width":4,"height":5,"type":"residential","id":2150},
+  "W_MultiAge_FELL22A2":{"name":"Heroes Tavern - Lv. 2",           "width":4,"height":5,"type":"residential","id":2151},
+  "W_MultiAge_FELL22A3":{"name":"Heroes Tavern - Lv. 3",           "width":4,"height":5,"type":"residential","id":2152},
+  "W_MultiAge_FELL22A4":{"name":"Heroes Tavern - Lv. 4",           "width":4,"height":5,"type":"residential","id":2153},
+  "W_MultiAge_FELL22A5":{"name":"Heroes Tavern - Lv. 5",           "width":4,"height":5,"type":"residential","id":2154},
+  "W_MultiAge_FELL22A6":{"name":"Heroes Tavern - Lv. 6",           "width":4,"height":5,"type":"residential","id":2155},
+  "W_MultiAge_FELL22A7":{"name":"Heroes Tavern - Lv. 7",           "width":4,"height":5,"type":"residential","id":2156},
+  "W_MultiAge_FELL22A8":{"name":"Heroes Tavern - Lv. 8",           "width":4,"height":5,"type":"residential","id":2157},
+  "W_MultiAge_FELL22A9":{"name":"Heroes Tavern - Lv. 9",           "width":4,"height":5,"type":"residential","id":2158},
+  "W_MultiAge_FELL22B1":{"name":"Knights Pavilion",                "width":2,"height":2,"type":"residential","id":2159},
+  "W_MultiAge_FELL22B2":{"name":"Valiant Knights Pavilion",        "width":2,"height":2,"type":"residential","id":2160},
+  "W_MultiAge_FELL24A1":{"name":"Whisperwood Watermill - Lv. 1",   "width":1,"height":1,"type":"residential","id":2161},
+  "W_MultiAge_FELL24A10":{"name":"Arcadian Whisperwood Watermill", "width":1,"height":1,"type":"residential","id":2162},
+  "W_MultiAge_FELL24A2":{"name":"Whisperwood Watermill - Lv. 2",   "width":1,"height":1,"type":"residential","id":2163},
+  "W_MultiAge_FELL24A3":{"name":"Whisperwood Watermill - Lv. 3",   "width":1,"height":1,"type":"residential","id":2164},
+  "W_MultiAge_FELL24A4":{"name":"Whisperwood Watermill - Lv. 4",   "width":1,"height":1,"type":"residential","id":2165},
+  "W_MultiAge_FELL24A5":{"name":"Whisperwood Watermill - Lv. 5",   "width":1,"height":1,"type":"residential","id":2166},
+  "W_MultiAge_FELL24A6":{"name":"Whisperwood Watermill - Lv. 6",   "width":1,"height":1,"type":"residential","id":2167},
+  "W_MultiAge_FELL24A7":{"name":"Whisperwood Watermill - Lv. 7",   "width":1,"height":1,"type":"residential","id":2168},
+  "W_MultiAge_FELL24A8":{"name":"Whisperwood Watermill - Lv. 8",   "width":1,"height":1,"type":"residential","id":2169},
+  "W_MultiAge_FELL24A9":{"name":"Sylvan Whisperwood Watermill",    "width":1,"height":1,"type":"residential","id":2170},
+  "W_MultiAge_FELL24B1":{"name":"Jolly Oink Pigsty",               "width":1,"height":1,"type":"residential","id":2171},
+  "W_MultiAge_FELL24B2":{"name":"Ascended Jolly Oink Pigsty",      "width":1,"height":1,"type":"residential","id":2172},
+  "W_MultiAge_FELL24C1":{"name":"Royal Carriage",                  "width":1,"height":1,"type":"residential","id":2173},
+  "W_MultiAge_FELL24C2":{"name":"Ascended Royal Carriage",         "width":1,"height":1,"type":"residential","id":2174},
+  "W_MultiAge_FELL24D1":{"name":"Imperial Skyletter Spire",        "width":1,"height":1,"type":"residential","id":2175},
+  "W_MultiAge_FELL24E1":{"name":"Escutcheon Estate",               "width":1,"height":1,"type":"residential","id":2176},
 
   "Generic_1x1": {"name":"Generic 1x1","width":1,"height":1,"type":"generic","id":3011},
   "Generic_1x2": {"name":"Generic 1x2","width":2,"height":1,"type":"generic","id":3012},
