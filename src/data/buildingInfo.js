@@ -10949,7 +10949,10 @@ var buildingData = {
   "M_SpaceAgeTitan_Military5":    {"name":"Orbital Base",                   "width":6,"height":4,"type":"military","id":1732},
   "P_SpaceAgeTitan_Workshop1":    {"name":"Engine Service",                 "width":4,"height":4,"type":"production","id":1733},
   "P_SpaceAgeTitan_Workshop2":    {"name":"Bar of Empires",                 "width":3,"height":3,"type":"production","id":1734},
+
   "R_MultiAge_HeroBonus22k":      {"name":"Legendary Lodge",                "width":4,"height":5,"type":"residential","id":1735},
+  "W_MultiAge_FELL22A11":         {"name":"Legendary Lodge",                "width":4,"height":5,"type":"residential","id":9735},
+
   "R_SpaceAgeTitan_Residential1": {"name":"Ice Dwelling",                   "width":3,"height":4,"type":"residential","id":1736},
   "R_SpaceAgeTitan_Residential2": {"name":"Frost Dwelling",                 "width":2,"height":3,"type":"residential","id":1737},
   "R_SpaceAgeTitan_Residential3": {"name":"Igloo",                          "width":3,"height":3,"type":"residential","id":1738},
@@ -11312,10 +11315,10 @@ var buildingData = {
   "W_MultiAge_SUM24C3":{"name":"Ascended Zheng's Golden Bell", "width":1,"height":1,"type":"residential","id":2081},
   "W_MultiAge_SUM24D1":{"name":"Jade Booty Bar",               "width":3,"height":4,"type":"residentialnr","id":2082},
   "W_MultiAge_SUM24E1":{"name":"Captain Bao's Warehouse",      "width":4,"height":3,"type":"residentialnr","id":2083},
-  "W_MultiAge_SUM24F1":{"name":"Sailmaker's Workshop - Lv. 1", "width":2,"height":2,"type":"residential","id":2084},
-  "W_MultiAge_SUM24F2":{"name":"Sailmaker's Workshop - Lv. 2", "width":2,"height":2,"type":"residential","id":2085},
-  "W_MultiAge_SUM24F3":{"name":"Sailmaker's Studio",           "width":2,"height":2,"type":"residential","id":2086},
-  "W_MultiAge_SUM24F4":{"name":"Sailmaker's Atelier",          "width":2,"height":2,"type":"residential","id":2087},
+  "W_MultiAge_SUM24F1":{"name":"Sailmaker's Workshop - Lv. 1", "width":2,"height":2,"type":"residentialnr","id":2084},
+  "W_MultiAge_SUM24F2":{"name":"Sailmaker's Workshop - Lv. 2", "width":2,"height":2,"type":"residentialnr","id":2085},
+  "W_MultiAge_SUM24F3":{"name":"Sailmaker's Studio",           "width":2,"height":2,"type":"residentialnr","id":2086},
+  "W_MultiAge_SUM24F4":{"name":"Sailmaker's Atelier",          "width":2,"height":2,"type":"residentialnr","id":2087},
 
   "W_MultiAge_CARE24A1":{"name":"Eco Hub - Lv. 1",                    "width":6,"height":6,"type":"residential","id":2088},
   "W_MultiAge_CARE24A2":{"name":"Eco Hub - Lv. 2",                    "width":6,"height":6,"type":"residential","id":2089},
@@ -11378,8 +11381,6 @@ var buildingData = {
   "W_MultiAge_TEMP24GRDecoration":{"name":"Chrono Column - Inactive", "width":2,"height":2,"type":"decoration","id":2146},
   "W_MultiAge_TEMP24WW":{"name":"Wish Fountain - Active",             "width":2,"height":2,"type":"decoration","id":2147},
   "W_MultiAge_TEMP24WWDecoration":{"name":"Wish Fountain - Inactive", "width":2,"height":2,"type":"decoration","id":2148},
-
-  "W_MultiAge_FELL22A11":{"name":"??",      "width":1,"height":1,"type":"residential","id":2220},
 
   "Generic_1x1": {"name":"Generic 1x1","width":1,"height":1,"type":"generic","id":3011},
   "Generic_1x2": {"name":"Generic 1x2","width":2,"height":1,"type":"generic","id":3012},
