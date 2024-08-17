@@ -11379,6 +11379,8 @@ var buildingData = {
   "W_MultiAge_TEMP24WW":{"name":"Wish Fountain - Active",             "width":2,"height":2,"type":"decoration","id":2147},
   "W_MultiAge_TEMP24WWDecoration":{"name":"Wish Fountain - Inactive", "width":2,"height":2,"type":"decoration","id":2148},
 
+  "W_MultiAge_FELL22A11":{"name":"??",      "width":1,"height":1,"type":"residential","id":2220},
+
   "Generic_1x1": {"name":"Generic 1x1","width":1,"height":1,"type":"generic","id":3011},
   "Generic_1x2": {"name":"Generic 1x2","width":2,"height":1,"type":"generic","id":3012},
   "Generic_1x3": {"name":"Generic 1x3","width":3,"height":1,"type":"generic","id":3013},
