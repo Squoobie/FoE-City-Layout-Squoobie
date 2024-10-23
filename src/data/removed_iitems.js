@@ -171,6 +171,71 @@ var unused_buildingData = {
         "id": 761
       },
 
+      "R_MultiAge_HalloweenBonus19a": {
+        "name": "Abandoned Asylum - Lv. 1",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 792
+      },
+      "R_MultiAge_HalloweenBonus19b": {
+        "name": "Abandoned Asylum - Lv. 2",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 793
+      },
+      "R_MultiAge_HalloweenBonus19c": {
+        "name": "Abandoned Asylum - Lv. 3",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 794
+      },
+      "R_MultiAge_HalloweenBonus19d": {
+        "name": "Abandoned Asylum - Lv. 4",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 795
+      },
+      "R_MultiAge_HalloweenBonus19e": {
+        "name": "Abandoned Asylum - Lv. 5",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 796
+      },
+      "R_MultiAge_HalloweenBonus19f": {
+        "name": "Abandoned Asylum - Lv. 6",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 797
+      },
+      "R_MultiAge_HalloweenBonus19g": {
+        "name": "Abandoned Asylum - Lv. 7",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 798
+      },
+      "R_MultiAge_HalloweenBonus19h": {
+        "name": "Abandoned Asylum - Lv. 8",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 799
+      },
+      "R_MultiAge_HalloweenBonus19i": {
+        "name": "Abandoned Asylum - Lv. 9",
+        "width": 5,
+        "height": 5,
+        "type": "residential",
+        "id": 800
+      },
+    
+
       "R_MultiAge_CulturalBuilding7a": {
         "name": "Sun Temple - Lv. 1",
         "width": 3,
