@@ -10223,14 +10223,14 @@ var buildingData = {
     "name":"Sapphire Arch",
     "width":1,
     "height":3,
-    "type":"random_production",
+    "type":"residentialnr",
     "id":1508
   },
     "L_AllAge_ArcheologyBonus22b": {
     "name":"Magenta Arch",
     "width":1,
     "height":3,
-    "type":"random_production",
+    "type":"residentialnr",
     "id":1509
   },
     "M_SpaceAgeJupiterMoon_Military1": {
@@ -11207,7 +11207,7 @@ var buildingData = {
   "W_MultiAge_FALL22A9":{"name":"Sunflower Oil Press - Lv. 9",        "width":4,"height":6,"type":"residential","id":2115},
   "W_MultiAge_FALL23A12":{"name":"Majestic Autumn Vineyard",          "width":7,"height":3,"type":"residential","id":2116},
   "W_MultiAge_FALL23C2":{"name":"Elite Jumpin' Pumpkin",              "width":2,"height":2,"type":"production","id":2117},
-  "W_MultiAge_FALL23D2":{"name":"Exquisite Cider Garden",             "width":2,"height":2,"type":"residential","id":2118},
+  "W_MultiAge_FALL23D2":{"name":"Exquisite Cider Garden",             "width":2,"height":2,"type":"residentialnr","id":2118},
   "W_MultiAge_FALL23E2":{"name":"Royal Shroom Throne",                "width":1,"height":1,"type":"residential","id":2119},
   "W_MultiAge_FALL23F2":{"name":"Granny Aurora's Apple Blossom",      "width":1,"height":1,"type":"residential","id":2120},
   "W_MultiAge_FALL24A1":{"name":"Harvest Squirrel Hall - Lv. 1",      "width":5,"height":6,"type":"residential","id":2121},
@@ -11268,7 +11268,7 @@ var buildingData = {
   "W_MultiAge_FELL24C1":{"name":"Royal Carriage",                  "width":3,"height":4,"type":"residentialnr","id":2173},
   "W_MultiAge_FELL24C2":{"name":"Ascended Royal Carriage",         "width":3,"height":4,"type":"residentialnr","id":2174},
   "W_MultiAge_FELL24D1":{"name":"Imperial Skyletter Spire",        "width":5,"height":4,"type":"residentialnr","id":2175},
-  "W_MultiAge_FELL24E1":{"name":"Escutcheon Estate",               "width":4,"height":4,"width":1,"height":1,"type":"residentialnr","id":2176},
+  "W_MultiAge_FELL24E1":{"name":"Escutcheon Estate",               "width":4,"height":4,"type":"residentialnr","id":2176},
 
   "A_SpaceAgeSpaceHub_Culture1":{"name":"Galaxy Vortex",                               "width":5,"height":5,"type":"culture","id":2177},
   "A_SpaceAgeSpaceHub_Culture2":{"name":"LU-N-Arcade",                                 "width":5,"height":3,"type":"culture","id":2178},
