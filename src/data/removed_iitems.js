@@ -489,8 +489,6 @@ var unused_buildingData = {
       "height":5,
       "type":"residential",
       "id":1564
-    },
+    }
   
- 
-  
-    ;}
+  };
