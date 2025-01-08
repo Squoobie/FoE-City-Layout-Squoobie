@@ -17,6 +17,8 @@ View the site [Sacah's City Layout Tool](https://sacah.github.io/foe-city-layout
 
 ## Change log
 
+### 01/08/2025
+* Building updates.
 ### 11/13/2024
 * Added winter 2024 building.
 ### 10/22/2024
