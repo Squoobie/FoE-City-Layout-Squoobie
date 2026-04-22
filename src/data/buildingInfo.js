@@ -10974,7 +10974,7 @@ var buildingData = {
 "W_MultiAge_HIS26F1":{    "name":"Huginn Tale Hut - Lv. 1",                 "height":4,"width":4,  "type":"residential","id":2949},
 "W_MultiAge_HIS26F2":{    "name":"Huginn Tale Hut - Lv. 2",                 "height":4,"width":4,  "type":"residential","id":2950},
 
-"W_MultiAge_LTE26A1":{    "name":"FOrbidden Market - bOundLesS Horizon",    "height":,"width":,  "type":"residential","id":2951},
+"W_MultiAge_LTE26A1":{    "name":"FOrbidden Market - bOundLesS Horizon",    "height":2,"width":2,  "type":"residential","id":2951},
 
 "W_MultiAge_PAT21A1":{    "name":"Druid Temple - Lv. 1",                    "height":5,"width":4,  "type":"residential","id":2952},
 "W_MultiAge_PAT21A10":{   "name":"Druid Temple - Lv. 10",                   "height":5,"width":4,  "type":"residential","id":2953},
